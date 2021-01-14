@@ -6,3 +6,5 @@ java.lang.IllegalArgumentException: Sorry IllegalArgumentException!
 java.lang.IllegalArgumentException: Sorry IllegalArgumentException!
 	at com.green.HelloWorldError.getData(HelloWorldError.java:23) ~[classes/:na]
 	at com.green.HelloWorldError.main(HelloWorldError.java:13) ~[classes/:na]
+
+	привет)
