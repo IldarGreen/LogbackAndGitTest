@@ -1,0 +1,16 @@
+2021-01-13_12:20:29.456 [main] ERROR com.green.HelloWorldError - {}
+java.lang.IllegalArgumentException: Sorry IllegalArgumentException!
+	at com.green.HelloWorldError.getData(HelloWorldError.java:23) ~[classes/:na]
+	at com.green.HelloWorldError.main(HelloWorldError.java:13) ~[classes/:na]
+2021-01-13_12:20:29.467 [main] ERROR com.green.HelloWorldError - {}
+java.lang.IllegalArgumentException: Sorry IllegalArgumentException!
+	at com.green.HelloWorldError.getData(HelloWorldError.java:23) ~[classes/:na]
+	at com.green.HelloWorldError.main(HelloWorldError.java:13) ~[classes/:na]
+2021-01-13_12:20:38.674 [main] ERROR com.green.HelloWorldError - {}
+java.lang.IllegalArgumentException: Sorry IllegalArgumentException!
+	at com.green.HelloWorldError.getData(HelloWorldError.java:23) ~[classes/:na]
+	at com.green.HelloWorldError.main(HelloWorldError.java:13) ~[classes/:na]
+2021-01-13_12:20:38.679 [main] ERROR com.green.HelloWorldError - {}
+java.lang.IllegalArgumentException: Sorry IllegalArgumentException!
+	at com.green.HelloWorldError.getData(HelloWorldError.java:23) ~[classes/:na]
+	at com.green.HelloWorldError.main(HelloWorldError.java:13) ~[classes/:na]
