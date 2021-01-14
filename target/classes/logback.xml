@@ -49,12 +49,12 @@
         <rollingPolicy class="ch.qos.logback.core.rolling.FixedWindowRollingPolicy">
             <FileNamePattern>logs/archived/app.%i.log</FileNamePattern>
             <MinIndex>1</MinIndex>
-            <MaxIndex>7</MaxIndex>
-            <totalSizeCap>5KB</totalSizeCap>
+            <MaxIndex>5</MaxIndex>
         </rollingPolicy>
 
         <triggeringPolicy class="ch.qos.logback.core.rolling.SizeBasedTriggeringPolicy">
             <MaxFileSize>1KB</MaxFileSize>
+            <totalSizeCap>5KB</totalSizeCap>
         </triggeringPolicy>
 
     </appender>

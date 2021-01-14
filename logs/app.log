@@ -6,5 +6,12 @@ java.lang.IllegalArgumentException: Sorry IllegalArgumentException!
 java.lang.IllegalArgumentException: Sorry IllegalArgumentException!
 	at com.green.HelloWorldError.getData(HelloWorldError.java:23) ~[classes/:na]
 	at com.green.HelloWorldError.main(HelloWorldError.java:13) ~[classes/:na]
-
-	привет)
+2021-01-14_16:07:14.819 [main] ERROR com.green.HelloWorldError - {}
+java.lang.IllegalArgumentException: Sorry IllegalArgumentException!
+	at com.green.HelloWorldError.getData(HelloWorldError.java:23) ~[classes/:na]
+	at com.green.HelloWorldError.main(HelloWorldError.java:13) ~[classes/:na]
+2021-01-14_16:07:14.822 [main] ERROR com.green.HelloWorldError - {}
+java.lang.IllegalArgumentException: Sorry IllegalArgumentException!
+	at com.green.HelloWorldError.getData(HelloWorldError.java:23) ~[classes/:na]
+	at com.green.HelloWorldError.main(HelloWorldError.java:13) ~[classes/:na]
+вапвапавпвпав
